@@ -1,0 +1,42 @@
+body {
+
+
+
+    font-family: sans-serif; }
+
+
+    #start-mining-button
+
+    background-color: green; color: white; 
+
+    padding: 10px;
+
+
+
+    border: none;
+
+    border-radius: 5px;
+
+
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+
+
+    #Minining-state {
+
+        margin-top: 20px; }
+
+        #Minining-stats p{
+
+            margin: 0;
+        }
+        #Minining-stats span {
+
+            font-weight: bold; }
+      
+        
+        
+    
